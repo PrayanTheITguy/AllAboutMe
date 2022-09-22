@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+body{
+    text-align: center;
+    background: linear-gradient(to right, rgb(248, 85, 3), white, green); 
+}  
+
+
+body {
+    color: rgb(25, 0, 255);
+  }
+  
+  h1 {
+    color: #00ff00;
+  }
+  
+  p {
+    text-align: center;
+    color: rgb(0,0,255);}
+    
+  a:hover{
+    color:red;
+  }
+
+  #Budgies {
+             border: solid 4px rgb(0, 0, 0);
+  }
+
+  .Monkey{
+            border: solid 4px goldenrod;
+  }
+
+  *{
+    padding: 0;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+    body {
+      font-family: monospace;
+    }
+
+    nav{
+      background-color: #0082e6;
+      height: 75px;
+      width: 100%;
+    }
+
+    nav ul li{
+      float: left;
+      margin-left: 20px;
+    }
+
+    nav ul{ 
+      display: inline-block;
+      line-height: 80px;
+      margin: 0px;
+    }
+    nav ul li a{
+      color: white;
+    }
+
+
+
+  
+ 
+  
+
+  
